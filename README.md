@@ -1,4 +1,3 @@
-# SPSGP-4707-Age-and-Gender-detection-using-Deep-Learning-with-IBM-Cloud
 Age and Gender detection using Deep Learning with IBM Cloud
 LINKS:
 
