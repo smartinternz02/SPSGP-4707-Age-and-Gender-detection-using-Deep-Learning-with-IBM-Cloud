@@ -1,4 +1,4 @@
-Age and Gender detection using Deep Learning with IBM Cloud
+
 LINKS:
 
 Google Drive Project file  https://drive.google.com/drive/folders/1RL0uiSjVWyuZYLOwHebEA98KUieNVgf8?usp=sharing
